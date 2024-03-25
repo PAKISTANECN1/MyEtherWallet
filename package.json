@@ -151,7 +151,7 @@
     "web3-core-helpers": "1.4.0",
     "web3-core-method": "1.4.0",
     "web3-core-requestmanager": "1.4.0",
-    "web3-utils": "1.4.0",
+    "web3-utils": "4.2.1",
     "webpack": "4.44.2",
     "xss": "1.0.9"
   },
