@@ -152,7 +152,7 @@
     "web3-core-method": "1.4.0",
     "web3-core-requestmanager": "1.4.0",
     "web3-utils": "1.4.0",
-    "webpack": "4.44.2",
+    "webpack": "5.94.0",
     "xss": "1.0.9"
   },
   "engines": {
